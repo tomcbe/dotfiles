@@ -1,0 +1,1 @@
+export PATH="$PATH:~/.local/azuredatastudio-linux-x64/bin"
